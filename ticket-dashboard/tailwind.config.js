@@ -11,3 +11,5 @@ module.exports = {
   plugins: [],
 }
 
+git push -u origin main
+
